@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on freelance Projects
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on Open-Source projects
 - 🤔 I’m looking for help with Nothing
-- 💬 Ask me about Flutter
+- 💬 Ask me about Kotlin
 - 📫 How to reach me: ayomilotunde02@gmail.com
 - ⚡ Fun fact: I love watching video tutorials than reading
 
