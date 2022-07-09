@@ -1,20 +1,22 @@
 
 
 <h3 align="center">I'm a passionate Mobile Developer</h3>
-<h4 align="center">I have experience in developing mobile applications, creating api for backend development, and writing smart contracts for web3 Integration</h4>
+<h4 align="center">I have experience in developing mobile applications either native or cross platform.</h4>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently on a personal project
+ 
 
-- 👯  I’m currently into block chain, with the use of Meta mask, Web3, and solidity
+- 🔭 I’m currently working on freelance Projects
+
+- 👯  I’m currently learning Flutter
 
 - 👯  Readily availiable to take up your mobile development project
 
 - 👨‍💻 most of my practice projects are available in my repository except some excluded once
 
-- 📫 How to reach me **olatundesuccess54@gmail.com**
+- 📫 How to reach me **ayomilotunde02@gmail.com**
 
 - ⚡ Fun fact **I play games and want to learn more.**
 
@@ -35,16 +37,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Success0452/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Olatunde Success streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Success0452&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Ayomilotunde/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adeoye Ayomide streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayomilotunde&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Success0452/github-readme-stats"><img alt="Olatunde Success Github Stats" src="https://github-readme-stats.vercel.app/api?username=Success0452&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Success0452/github-readme-stats"><img alt="Olatunde Success Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Success0452&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Ayomilotunde/github-readme-stats"><img alt="Adeoye Ayomide Olatunde Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayomilotunde&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ayomilotunde/github-readme-stats"><img alt="Adeoye Ayomide Olatunde Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomilotunde&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -52,7 +54,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Success0452/github-readme-activity-graph"><img alt="Olatunde Success Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Success0452&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ayomilotunde/github-readme-activity-graph"><img alt="Adeoye Ayomide Olatunde Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayomilotunde&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -60,16 +62,16 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/olatunde-success0453/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/Famous0452/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/adeoye-ayomide-1b5166163/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/ayomi002/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Success0452">
+    <img src="https://komarev.com/ghpvc/?username=ayomi002">
 </a>
-<a href="https://github.com/Success0452?tab=followers"><img src="https://img.shields.io/github/followers/Success0452?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ayomilotunde?tab=followers"><img src="https://img.shields.io/github/followers/Ayomilotunde?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
