@@ -64,6 +64,7 @@
 
 <a href = "https://www.linkedin.com/in/adeoye-ayomide-1b5166163/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/ayomi002/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.twitter.com/ayomi_002/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
