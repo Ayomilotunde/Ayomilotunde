@@ -8,9 +8,9 @@
 
  
 
-- 🔭 I’m currently working on freelance Projects
+- 🔭 I’m currently open to work on flutter Project
 
-- 👯  I’m currently learning Flutter
+- 🌱  I’m currently speaking Flutter
 
 - 👯  Readily availiable to take up your mobile development project
 
